@@ -22,6 +22,7 @@ function isTruthy(x) {
 
 function area(r) {
     let math = Math()
+    var unused_var
     return math.PI * r * r;
 }
 
